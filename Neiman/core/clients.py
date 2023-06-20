@@ -4,7 +4,7 @@ import logging
 
 import platform
 
-from LegendBS.start_bot import start_bot
+from NeimanBS.start_bot import start_bot
 
 from pyrogram import Client as call
 
@@ -12,7 +12,7 @@ from pyrogram import __version__ as py_version
 
 from pyrogram import idle
 
-from LegendGirl.Config import *
+from Neiman.Config import *
 
 version = "v1.0"
 
